@@ -2,47 +2,47 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: [ARIANE KOUAME]
+- Course and section: [CSC 350]
+- Date: [SEPT 14]
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: [main]
+- Personal Homework 2 GitHub URL: [https://github.com/ktiariane-droid/Independent-_repo.git]
+- Starting `git status`: [Describe the result: working on the main branch , the branch is up to date with origin/main; the changes are not staged and it shows thatb FESTIVAL_VISITOR_GUIDE has been modified]
+- Starting preparation commit ID: [bd125dd]
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: [LumenFest]
+- Location: [Riverside Park, Syracuse, NY]
+- Intended audience: [College students and young professionals interested in music, art, and technology]
+- Theme: [A one-night celebration where light, sound, and technology come together to turn the park into an interactive art experience]
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   [in the local repository in the unstaged area]
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   [No]
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: [Free parking available in Lot C off Waverly Ave]
+- Entrance or meeting location: [Main entrance at the Riverside Park pavilion, near the fountain.]
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. [Wheelchair-accessible pathways and ramps throughout the venue, with reserved accessible viewing areas near the main stage.]
+2. [ ASL interpreters available for main stage performances upon request; sensory-friendly quiet space provided for attendees who need a break from crowds or noise]
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+[Please stay hydrated, wear comfortable footwear, and keep an eye on personal belongings at all times — lost and found is located at the main entrance pavilion.]
 
 ## GitHub Verification
 
