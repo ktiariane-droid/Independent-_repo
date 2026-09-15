@@ -46,36 +46,36 @@
 
 ## GitHub Verification
 
-[verification]
+[Replace this line on GitHub—not in VS Code]
 
 ## Commit Evidence
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
+| Personalized guide | [0d84e96] | `docs: personalize festival visitor guide` |
+| Visitor access information | [f6caded] | `docs: add visitor access information` |
+| GitHub verification | [51ef5e8] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   [saving a file just leave it in the unstagged area in the local repository and commiting it make it ready to push to the remote repo ]
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   [git diff shows the changes made between the local and the staging area and git diff --staged shows the changes made in the staging area but not yet commited.]
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   [before it has been changed remotely so the local can't have it]
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   [-u avoid specifying the remote and branch every time]
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   [The full commit history should match]
 
