@@ -55,7 +55,7 @@
 | Personalized guide | [0d84e96] | `docs: personalize festival visitor guide` |
 | Visitor access information | [f6caded] | `docs: add visitor access information` |
 | GitHub verification | [51ef5e8] | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Final reflection | [dee52fd] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
